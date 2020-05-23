@@ -1,6 +1,6 @@
 # myfluttercampus
 
-A new Flutter project.
+A project basic CRUD flutter with firebase
 
 ## Getting Started
 
